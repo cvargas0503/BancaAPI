@@ -1,0 +1,6 @@
+@BancaAPI.API_HostAddress = http://localhost:5155
+
+GET {{BancaAPI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

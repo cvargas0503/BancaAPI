@@ -1,0 +1,60 @@
+# Build
+bin/
+obj/
+out/
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.dbmdl
+*.pdb
+*.cache
+*.pidb
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Dotnet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Secrets / config
+secrets.json
+appsettings.Development.json
+.env
+*.key
+
+# Coverage
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+
+# Others
+*.sqlite
+*.bak
+*.zip
+*.tar.gz
+
+# JetBrains Rider
+.idea/
