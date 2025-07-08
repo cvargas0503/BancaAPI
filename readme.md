@@ -35,7 +35,7 @@
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/TU_USUARIO/BancaAPI.git
+   git clone https://github.com/cvargas0503/BancaAPI.git
    cd BancaAPI
    ```
 2. **Restaura los paquetes:**
